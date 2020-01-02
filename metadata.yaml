@@ -1,11 +1,16 @@
 _repo: The-Perfect-World-A-romance-of-strange-people-and-strange-places_61028
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61028-h/images/cover.jpg
 creator:
   author:
     agent_name: Scrymsour, Ella M.
     gutenberg_agent_id: '51227'
     url: http://www.gutenberg.org/2009/agents/51227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61028#The-Perfect-World-A-romance-of-strange-people-and-strange-places
 gutenberg_issued: '2019-12-27'
 gutenberg_type: Text
 identifiers:
